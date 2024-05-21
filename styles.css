@@ -1,0 +1,23 @@
+body {
+    background-color: #c48e64;
+}
+button:hover {
+    background-color: #d2c1b0;
+}
+button:active {
+    font-size: 1.3em;
+    color: #e48938;
+}
+input[type="text"]:focus {
+    border-color: #e48938;
+}
+input[type="text"]:valid {
+    color: #333
+}
+a:hover {
+    color: #7a5c47;
+    text-decoration: underline;
+}
+a:active {
+    font-weight: bold;
+}
